@@ -9,7 +9,7 @@ Cron V3 has been released!
 
 To download the specific tagged release, run:
 ```bash
-go get github.com/
+go get github.com/teraSurfer/cron
 ```
 Import it in your program as:
 ```go
